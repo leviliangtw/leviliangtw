@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I am Jih-Wei Liang 👋
+I am a MSc. Informatics student at Technische Universität München currently. 
+I worked previously as a software engineer in Republic of China Air Force (Taiwan) for 4 years, dealing with the fields of `Software Engineering` and `Site Reliability Engineering`. 
+I also have great interests in `cybersecurity` and `virtualization techniques`. 
+
+### About my learning now...
+Apart from the experience in `Software Engineering`, I am developing more deeper knowledge domain in `Computer Architecture`, `Distribution Systems` and `Virtualization Techniques`. 
+I would like to work on areas in `System Programming` as my next step. 
+
+### Repos I worked on...
+* Virtualization: [TUM-IN2125-VT](https://github.com/leviliangtw/TUM-IN2125-VT)
+* Game Server: [Golang_TexasPoker](https://github.com/leviliangtw/Golang_TexasPoker)
+* Machine Learning: [PYKT-MLLab](https://github.com/leviliangtw/PYKT-MLLab), [PYKT-PipLab](https://github.com/leviliangtw/PYKT-PipLab)
+* Android Apps: [MDM](https://github.com/leviliangtw/MDM), [HC-APP](https://github.com/leviliangtw/HC-APP)
+* Quantum Computing: [QC-Lab](https://github.com/leviliangtw/QC-Lab)
+
+### How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=red)](mailto:leviliangtw@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jih-wei-liang-406b8312b/)
 
 <!--
 **leviliangtw/leviliangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
