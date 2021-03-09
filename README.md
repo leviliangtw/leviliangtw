@@ -1,14 +1,14 @@
 ### Hi there, I am Jih-Wei Liang 👋
 I am a MSc. Informatics student at Technische Universität München currently. 
 I worked previously as a software engineer in Republic of China Air Force (Taiwan) for 4 years, dealing with the fields of `Software Engineering` and `Site Reliability Engineering`. 
-I also have great interests in `cybersecurity` and `virtualization techniques`. 
+I also have great interests in `Cybersecurity`, `Virtualization` and `Cloud Computing`. 
 
 ### About my learning now...
 Apart from the experience in `Software Engineering`, I am developing more deeper knowledge domain in `Computer Architecture`, `Distribution Systems` and `Virtualization Techniques`. 
-I would like to work on areas in `System Programming` as my next step. 
+I would like to work on areas in `Cloud Computing` for my next step. 
 
 ### Repos I worked on...
-* Virtualization: [TUM-IN2125-VT](https://github.com/leviliangtw/TUM-IN2125-VT)
+* Virtualization: [VT-Emulation](https://github.com/leviliangtw/VT-Emulation)
 * Game Server: [Golang_TexasPoker](https://github.com/leviliangtw/Golang_TexasPoker)
 * Machine Learning: [PYKT-MLLab](https://github.com/leviliangtw/PYKT-MLLab), [PYKT-PipLab](https://github.com/leviliangtw/PYKT-PipLab)
 * Android Apps: [MDM](https://github.com/leviliangtw/MDM), [HC-APP](https://github.com/leviliangtw/HC-APP)
